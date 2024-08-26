@@ -1,6 +1,28 @@
-# PizzaDOro
+## PizzaDOro
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.0.
+This project is a web application for the pizzeria "PizzaDOro," developed with Angular CLI version 18.2.0. The application allows users to browse the menu, place orders online, and manage their accounts.
+
+## Features
+
+Menu Browsing: Customers can explore the full menu, including descriptions and prices.
+
+Online Ordering: Users can select items from the menu, customize their orders, and complete their purchase online.
+
+Account Management: Users can create and manage their accounts, view order history, and update personal information.
+
+Administration: A separate module for administrators to manage orders, the menu, and users.
+
+Technologies Used
+
+Angular: Main framework used for developing the user interface.
+
+Bootstrap: Utilized to style the application and ensure responsiveness.
+
+NestJS and Prisma ORM: Used on the backend for data management and database communication.
+
+## Prerequisites
+Node.js (v14 or higher)
+Angular CLI (v18.2.0)
 
 ## Development server
 
